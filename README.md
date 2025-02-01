@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m a passionate full-stack developer focused on building scalable web applications using React, Node.js, and modern technologies. I enjoy designing intuitive user interfaces, developing robust APIs, and deploying full-stack solutions. I'm always learning, coding, and pushing the boundaries of what's possible.
+I'm a passionate full-stack developer focused on building scalable web applications using React, Node.js, and modern technologies. I enjoy designing intuitive user interfaces, developing robust APIs, and deploying full-stack solutions. I'm always learning, coding, and pushing the boundaries of what's possible.
 
 
 ## 🌐 Socials:
