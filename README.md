@@ -5,7 +5,7 @@
   
 - 💬 Ask me about **Webdev and Appdev**
 
-- 📫 How to reach me **yashasmanjuurs@gmail@gmail.com**
+- 📫 How to reach me **yashasmanjuurs@gmail.com**
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
