@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yashas Manju Urs</h1>
-<h3 align="center">A passionate Computer Science Enthusiast from India</h3>
+<h3 align="center">A passionate Computer Science Enthusiast</h3>
 
 - 🔭 I’m currently working on **Web Development** 
   
