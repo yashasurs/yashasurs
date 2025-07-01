@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Yashas Manju Urs</h1>
 <h3 align="center">A passionate Computer Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **Web Development** 
+- 🔭 I’m currently working on **Web Development.** 
   
-- 💬 Ask me about **Webdev and Appdev**
+- 💬 Ask me about **Web development and App development**
 
 - 📫 How to reach me **yashasmanjuurs@gmail.com**
 
