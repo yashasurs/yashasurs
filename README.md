@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Yashas Manju Urs</h1>
 <h3 align="center">A passionate Computer Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **Web Development.** 
+- 🔭 I’m currently working on **LLM Engineering and Devops.** 
   
-- 💬 Ask me about **Web development and App development**
+- 💬 Ask me about **Web development and CLoud and Devops**
 
 - 📫 How to reach me **yashasmanjuurs@gmail.com**
 
@@ -11,15 +11,14 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-000020?style=flat&logo=expo&logoColor=white)
+
 
 ## 🏅 Achievements :
 ### 🏆 GitHub Trophies
